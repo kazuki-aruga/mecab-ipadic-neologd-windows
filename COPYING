@@ -1,0 +1,22 @@
+Copyright 2016 Kazuki Aruga.
+
+本ソフトウェアは Toshinori Sato 氏による mecab-ipadic-neologd の大半を借用しています。
+mecab-ipadic-neologd のライセンスは MeCab/dic/neologd/COPYING を参照してください。
+
+本ソフトウェアは奈良先端科学技術大学院大学の ipadic を含みます。
+ipadic のライセンスは MeCab/dic/ipadic/COPYING を参照してください。
+
+本ソフトウェアは Taku Kudo 氏による MeCab の成果物を含みます。
+MeCab のライセンスは MeCab/COPYING を参照してください。
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.

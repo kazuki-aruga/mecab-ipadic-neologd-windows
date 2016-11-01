@@ -28,3 +28,11 @@ mecab-ipadic-neologdをWidnows版MeCabのSHIFT-JIS辞書に登録します。
 + 64bit版のWindows10をターゲットに作成しています
 + UNICODEにだけ存在してSHIFT-JISには存在しない文字が含まれる単語はすべて除外しています
 + ipadicにneologdを適用するとRMeCabでエラーが発生し、正しく動かなくなる場合があります
+
+# ライセンス等
+Copyright 2016 Kazuki Aruga.
+本ソフトウェアのライセンスは Apache License, Version 2.0 です。詳細は COPYING ファイルを参照してください。
+
+# 謝辞
+本ソフトウェアは Toshinori Sato 氏による mecab-ipadic-neologd の大半を借用しています。
+素晴らしい辞書を作成していただいた Toshinori Sato 氏に感謝いたします。
