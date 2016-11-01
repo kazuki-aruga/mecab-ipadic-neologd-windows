@@ -15,7 +15,8 @@ mecab-ipadic-neologdをWidnows版MeCabのSHIFT-JIS辞書に登録します。
 
 1. リポジトリのMeCabディレクトリをWindowsにインストールされたMeCabのディレクトリ(C:\Program Files (x86)\MeCab)に上書きコピーする(上書きされるファイルは自分で確認してください)
 2. Windowsのスタートメニューから[MeCab] > [Recompile SHIFT-JIS Dictionary]を実行する
-3. C:\Program Files(x86)\MeCab\dic\neologd\compile-all.cmdを実行する
+3. C:\Program Files (x86)\MeCab\dic\neologd ディレクトリにある *.zip をすべて展開する
+4. C:\Program Files (x86)\MeCab\dic\neologd\compile-all.cmdを実行する
 
 以上で終了です。
 
