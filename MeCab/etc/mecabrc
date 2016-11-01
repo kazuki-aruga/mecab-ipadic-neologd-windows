@@ -1,0 +1,15 @@
+;
+; Configuration file of MeCab
+;
+;
+dicdir =  $(rcpath)\..\dic\ipadic
+
+userdic = C:\Program Files (x86)\MeCab\dic\neologd\mecab-user.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-adjective-exp.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-adjective-std.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-adjective-verb.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-adverb.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-common-noun-ortho-variant.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-date-time-infreq.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-ill-formed-words.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-interjection.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-noun-sahen-conn-ortho-variant.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-proper-noun-ortho-variant.dic,C:\Program Files (x86)\MeCab\dic\neologd\neologd-quantity-infreq.dic
+
+; output-format-type = wakati
+; input-buffer-size = 8192
+
+; node-format = %m\n
+; bos-format = %S\n
+; eos-format = EOS\n
+
